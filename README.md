@@ -12,7 +12,9 @@
 
 ## 🚀 Projeto
 
- Na trilha Impulse, foi desenvolvida um widget completo e acessível que pode ser utilizado em múltiplos projetos para coletar feedbacks dos usuários.
+ 
+ Durante a 8º edição do evento na trilha Impulse, foi desenvolvida um widget completo e acessível que pode ser utilizado em múltiplos projetos para coletar feedbacks dos usuários.
+
 
 ## 🔧 Tecnologias
 
@@ -23,11 +25,11 @@ Front-end:
 - Typescript
 
 Back-end:
--Express
--Typescript
--Prisma
--Jest
+- Express
+- Typescript
+- Prisma
+- Jest
 
 [Link do projeto](https://nlw-return-impulse-935hjp8p0-yagoafonso.vercel.app/)
 
-Desenvolvido por [Yago Afonso](https://nlw-return-impulse-935hjp8p0-yagoafonso.vercel.app/)
+Desenvolvido por [Yago Afonso](https://www.linkedin.com/in/yago-afonso/)
